@@ -7,11 +7,11 @@ Name: Boonuea Boonmana Email: 6970157421@student.chula.ac.th
 
 🖼️ 2. Picture
 
-!\[alt text](./Git-Exercise-Stuff/Quote.jpg?raw=true)
+![alt text](./Git-Exercise-Stuff/Quote.jpg?raw=true)
 
 🎞️ 3. Animation
 
-!\[til](./Git-Exercise-Stuff/GITGIF.git)
+![til](./Git-Exercise-Stuff/GITGIF.git)
 
 💬 4. Quote
 
