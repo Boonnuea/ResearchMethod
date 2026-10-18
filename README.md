@@ -19,4 +19,4 @@ Name: Boonuea Boonmana Email: 6970157421@student.chula.ac.th
 
 🎬 5. Video Lecture
 
-![Watch the video](https://www.youtube.com/watch?v=alfmHTYsEU4)
+[![Watch the video](https://www.youtube.com/watch?v=alfmHTYsEU4)](https://www.youtube.com/watch?v=alfmHTYsEU4)
