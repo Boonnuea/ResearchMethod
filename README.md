@@ -19,4 +19,4 @@ Name: Boonuea Boonmana Email: 6970157421@student.chula.ac.th
 
 🎬 5. Video Lecture
 
-<video src="./Git-Exercise-Stuff/gitgithub.mp4" controls width="720"></video>
+[![Watch Video](https://img.youtube.com/vi/alfmHTYsEU4/hqdefault.jpg)](https://www.youtubeHTYsEU4&t=892s)
