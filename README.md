@@ -7,15 +7,16 @@ Name: Boonuea Boonmana Email: 6970157421@student.chula.ac.th
 
 🖼️ 2. Picture
 
-!\[alt text](./Git-Exercise-Stuff/Quote.jpg?raw=true)
+![alt text](./Git-Exercise-Stuff/Quote.jpg?raw=true)
 
 🎞️ 3. Animation
 
-!\[til](./Git-Exercise-Stuff/GITGIF.git)
+![me](./Git-Exercise-Stuff/GITGIF.gif)
 
 💬 4. Quote
 
-\*\*\* Read and Place TEXT from Quote.\* here \*\*\*
+"Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked."
 
 🎬 5. Video Lecture
 
+[![Watch the video](https://www.youtube.com/watch?v=alfmHTYsEU4)](https://www.youtube.com/watch?v=alfmHTYsEU4)
