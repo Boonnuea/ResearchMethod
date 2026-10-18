@@ -11,7 +11,7 @@ Name: Boonuea Boonmana Email: 6970157421@student.chula.ac.th
 
 🎞️ 3. Animation
 
-![me](./Git-Exercise-Stuff/GITGIF.git)
+![me](./Git-Exercise-Stuff/GITGIF.gif)
 
 💬 4. Quote
 
@@ -19,4 +19,4 @@ Name: Boonuea Boonmana Email: 6970157421@student.chula.ac.th
 
 🎬 5. Video Lecture
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=alfmHTYsEU4&feature=youtu.be))
+![Watch the video](https://www.youtube.com/watch?v=alfmHTYsEU4)
